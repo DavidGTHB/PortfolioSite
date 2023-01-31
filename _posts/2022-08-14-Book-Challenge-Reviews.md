@@ -1,21 +1,21 @@
 ---
  title: Book Challenge Reviews 
- tags: [Reading]
+ tags: [Books]
  style: border
  color: info
- description: Short reviews of 5 books from my reading challenge.
+ description: Short reviews of 5 books from my 10-day reading challenge.
  image: https://i.imgur.com/DaKELUQ.png
 ---
 
-Recently I challenged myself to read 5 novels in 10 days. I've finished them now, although it ended up taking me 17 days! I liked that I had an extra reason to pick up a book; it was satisfying to mark my progress and see the bars fill in. Another win for [SMART](https://asana.com/resources/smart-goals) goal setting.
+Recently I challenged myself to read 5 novels in 10 days. I've finished them now, although it ended up taking 17 days! I liked that I had an extra reason to pick up a book; it was satisfying to mark my progress and see the bars fill in. Another win for [SMART](https://asana.com/resources/smart-goals) goal setting.
 
-I'm not just writing this to pat myself on the back for reading a handful of books. I thought I'd leave some short **spoiler-free** reviews since, with them fresh in my head, I think I'm in a good position to compare and contrast. In the past couple of months I've started books in 3 famous fantasy universes/series so if you're interested in exploring the genre this might give you a good place to start!
+I'm not just looking to pat myself on the back for reading a handful of books. I thought I'd leave some short **spoiler-free** reviews since, with them fresh in my head, I think I'm in a good position to compare and contrast. In the past couple of months I've started books in 3 famous fantasy universes/series so if you're interested in exploring the genre this might give you a good place to start!
 
 ---
 
 ### 5. REAMDE
 
-Essentially a nerdy action movie in book form. It hits all the notes you'd hope for, given that definition, and has a great attention to detail without being cringy with the techy stuff. However, it relies heavily on the (admittedly good) execution of action scenes while lacking a cohesive feeling story arc or strong emotional payoff. On top of this it was the longest book of the 5 at over 1000 pages which makes it a hard one to recommend.  
+Essentially a nerdy action movie in book form. It hits all the notes you'd hope for, given that definition, and has a great attention to detail without being cringy with the techy stuff. However, it relies heavily on the (admittedly good) execution of action scenes while lacking a cohesive feeling story arc or strong emotional payoff. On top of that, it was the longest book of the 5 at over 1000 pages which makes it a hard one to recommend.  
 **5.5/10**
 
 ### 4. Warbreaker
@@ -30,12 +30,12 @@ Having read a few other books from *the Cosmere*, I found I was a little dissapo
 
 ### 2. The Hero of Ages  
 
-The finale of the first Mistborn trilogy, *The Hero of Ages* was a satisfying ending to the series. Sanderson is very creative with the hard rules of his magic system here, in a way that makes revelations feel earned and gives the reader the chance to figure things out on their own. Let down a little by the nebulous primary antagonist, I would still heartily recommend the mistborn trilogy if you like the sound of competent, realistic characters standing up against impossible odds.
+The finale of the first Mistborn trilogy, *The Hero of Ages* was a satisfying ending to the series. Sanderson is very creative with the hard rules of his magic system here, in a way that makes revelations feel earned and gives the reader the chance to figure things out on their own. Let down a little by the nebulous primary antagonist, I would still heartily recommend the mistborn trilogy if you like the idea of competent, realistic characters standing up against impossible odds.
 **7.5/10**
 
 ### 1. The Eye of the World
 
-My clear personal favourite. An obviously Tolkien inspired journey, *The Eye of the World* has expert pacing, strong characters and an absorbing setting. It was a refreshing change from the more strict, relentless *Gardens of the Moon* and *Hero of Ages*. It elegantly endears you to its protagonists in a way reminiscient of, but in my opinion superior to, *The Fellowship of the Ring*. A classic feeling epic fantasy story that I can't wait to explore more of.  
+My clear personal favourite. An obviously Tolkien inspired journey, *The Eye of the World* has expert pacing, strong characters and an absorbing setting. It was a refreshing change from the more strict, relentless *Gardens of the Moon* and *Hero of Ages*. It endears you to its protagonists in a way reminiscient of*The Fellowship of the Ring* but with a more grounded, human approach. A classic-feeling epic fantasy story that I can't wait to explore more of.  
 **9/10**
 
 ---
